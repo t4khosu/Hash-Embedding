@@ -8,4 +8,4 @@ If you are interested in NLP, you should check out his and his teams work!
 There are also keras implementations for this algorithms. If you want to learn more,
 check out [dsv77's repo](https://nbviewer.jupyter.org/github/t4khosu/Hash-Embedding/blob/main/embedding.ipynb).
 
-If GitHub won't show this repos .ipynb properly, use this [nbviwer-link](https://nbviewer.jupyter.org/github/t4khosu/Hash-Embedding/blob/main/embedding.ipynb).
+If GitHub won't show this repo's .ipynb properly, use this [nbviwer-link](https://nbviewer.jupyter.org/github/t4khosu/Hash-Embedding/blob/main/embedding.ipynb).
